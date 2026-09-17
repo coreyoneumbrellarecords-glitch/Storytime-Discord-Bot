@@ -1,0 +1,1 @@
+- [Python Discord setup](python-discord-setup.md) — use full Python tooling and the current slash-command context API.
